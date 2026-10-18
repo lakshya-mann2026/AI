@@ -42,7 +42,7 @@ A practical example of predicting house prices using a housing dataset. It intro
 
 **Topics:** Pandas, NumPy, data visualization, outlier handling, multicollinearity, feature scaling, Linear Regression, and regression metrics.
 
-[Open the House Price notebook in Google Colab](https://colab.research.google.com/)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/AI/blob/main/01_machine_learning/01_Linear_Regression_House_Price_(1).ipynb.ipynb)
 
 ### 2. California Housing Dataset
 
